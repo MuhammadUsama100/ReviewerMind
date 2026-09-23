@@ -23,23 +23,8 @@ Review ONLY the material explicitly supplied to you:
 * reviewer discussion,
 * artifacts explicitly included with the submission.
 
-**Do NOT use the internet.**
 
-Do NOT search:
-
-* Google,
-* arXiv,
-* OpenReview,
-* Semantic Scholar,
-* GitHub,
-* conference proceedings,
-* citation databases,
-* later versions,
-* published decisions,
-* public reviews,
-* author identities.
-
-Do not attempt to identify whether the paper was accepted, rejected, spotlighted, oral, published later, or written by known authors.
+Search internet to find the claims of the paper .... Make sure the works originality... 
 
 Treat the submission as an anonymous manuscript unless the supplied material explicitly says otherwise.
 
